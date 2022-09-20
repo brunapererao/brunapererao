@@ -1,11 +1,11 @@
-- 👋 oii eu sou a bruna 
+- :bowtie:green_square: oii eu sou a bruna 
 
-- 👀 eu gosto de dormir
+- :purple_square: eu gosto de dormir
 
-- 🌱 estou aprendendo elementos quimicos
+- :suspect: estou aprendendo elementos quimicos
 
 - 💞️ estou tentando colaborar em estudar
 
-- 📫 atuba vila esperança
+- :black_flag: atuba vila esperança
 
 
